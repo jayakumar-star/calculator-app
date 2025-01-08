@@ -4,8 +4,11 @@
 #Description : Arithmetic operators
 
 
+
+
 read -p " Enter first number : " n1
 read -p " enter second number : " n2
+
 
 echo the sum of two numbers is $((n1+n2))
 
