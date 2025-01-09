@@ -1,9 +1,10 @@
+
 #!/bin/bash
 #Author : Jayakumar
 #Date : 29-12-2024
 #Description : Arithmetic operators
 
-
+# hi welcome to Git 
 
 
 read -p " Enter first number : " n1
